@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Omid 👋
 
-<!--
-**OmidDevAi/OmidDevAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer focused on **Artificial Intelligence, Machine Learning, and Data Analysis**.
 
-Here are some ideas to get you started:
+I enjoy learning by building real projects, experimenting with data, and turning what I learn into practical applications. My current focus is on improving my Python skills and going deeper into Machine Learning and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* Python
+* Machine Learning
+* Artificial Intelligence
+* Data Analysis
+* Pandas
+* NumPy
+* Scikit-learn
+* Jupyter Notebook
+* Git & GitHub
+
+## 📚 Currently Learning
+
+* Machine Learning
+* Data Analysis
+* AI with Python
+* Practical ML projects
+* Algorithms and problem solving
+
+## 🚀 Projects
+
+I'm building and documenting small projects as I learn, with a focus on Python, data analysis, and machine learning.
+
+### 🔬 Predict Prostat
+
+A machine learning project focused on exploring prostate cancer data and experimenting with data analysis and predictive modeling using Python.
+
+## 🎯 My Goal
+
+To become a stronger Python and AI/ML developer by consistently learning, building projects, and improving my problem-solving skills.
+
+---
+
+*Learning by building. Improving one project at a time.*
