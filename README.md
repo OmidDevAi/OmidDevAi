@@ -1,41 +1,67 @@
 # Hi, I'm Omid 👋
 
-I'm a Python developer focused on **Artificial Intelligence, Machine Learning, and Data Analysis**.
+I'm learning and working with **Python, Machine Learning, and Data Analysis**.
 
-I enjoy learning by building real projects, experimenting with data, and turning what I learn into practical applications. My current focus is on improving my Python skills and going deeper into Machine Learning and AI.
+I like learning by building real projects and working with data. I use Python to clean data, explore it, build machine learning models, and check the results.
 
 ## 🛠️ Skills
 
-* Python
-* Machine Learning
-* Artificial Intelligence
-* Data Analysis
-* Pandas
-* NumPy
-* Scikit-learn
-* Jupyter Notebook
-* Git & GitHub
-
-## 📚 Currently Learning
-
-* Machine Learning
-* Data Analysis
-* AI with Python
-* Practical ML projects
-* Algorithms and problem solving
+- Python
+- Machine Learning
+- Data Analysis
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- CatBoost
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Git & GitHub
 
 ## 🚀 Projects
 
-I'm building and documenting small projects as I learn, with a focus on Python, data analysis, and machine learning.
+### Telco Customer Churn Prediction
 
-### 🔬 Predict Prostat
+A machine learning project for predicting customer churn.
 
-A machine learning project focused on exploring prostate cancer data and experimenting with data analysis and predictive modeling using Python.
+The project includes:
+
+- Data cleaning
+- Data analysis
+- Feature engineering
+- Machine learning models
+- Model comparison
+- Cross-validation
+- Model tuning
+- Customer risk analysis
+
+### Predict Prostat
+
+A machine learning project using prostate cancer data.
+
+I worked with data preprocessing, analysis, and machine learning models to understand the data and make predictions.
+
+### SuperStore
+
+A data analysis project using sales data.
+
+The project focuses on data cleaning, analysis, and finding useful information from the dataset.
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Data Analysis
+- Python
+- Algorithms and problem solving
+- Practical machine learning projects
 
 ## 🎯 My Goal
 
-To become a stronger Python and AI/ML developer by consistently learning, building projects, and improving my problem-solving skills.
+My goal is to improve my Python and Machine Learning skills by building practical projects and working with real datasets.
+
+I am interested in opportunities related to **Python, Machine Learning, and Data Analysis**.
 
 ---
 
-*Learning by building. Improving one project at a time.*
+*Learning by building and improving one project at a time.*
