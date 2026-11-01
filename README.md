@@ -34,7 +34,7 @@ The project includes:
 - Inventory and customer management
 - Double-entry accounting with automatic journal entries
 - Cash boxes, checks and treasury
-- Modian and SMS integration
+- Modian invoice preparation and SMS notifications
 - Automated tests and a Windows installer
 
 ### Telco Customer Churn Prediction
