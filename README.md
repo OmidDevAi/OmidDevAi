@@ -37,6 +37,14 @@ The project includes:
 - Modian invoice preparation and SMS notifications
 - Automated tests and a Windows installer
 
+### ResumeYar
+
+A local-first job-search assistant with a Persian-first interface, built with Flask and SQLite.
+
+It reads a CV, imports a job posting, scores the match, generates a tailored CV and a cover letter as PDF files, and tracks every application on the local machine. The same repository includes a Windows desktop build with pywebview and WebView2.
+
+Code: https://github.com/OmidDevAi/ResumeYar
+
 ### Telco Customer Churn Prediction
 
 A machine learning project for predicting customer churn.
